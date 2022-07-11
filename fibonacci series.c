@@ -9,7 +9,8 @@ Code, Compile, Run and Debug online from anywhere in world.
 #include <stdio.h>
 int main()
 {
-int n,a,b,c,i;
+int n,a,b,c;
+  int i;
 printf("enter the limit");
 scanf("%d",&n);
 for(i=1;i<=n;i++)
